@@ -110,7 +110,7 @@ This enables dynamic and interactive data exploration.
 
 ## 🖼 Dashboard Preview
 
-![Retail Sales Dashboard](Retail project dashboard.png)
+![Retail Sales Dashboard](Retail_project_dashboard.png)
 
 ---
 
